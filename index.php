@@ -5,7 +5,7 @@
         <title>Google maps </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
-        <meta name="author" content="">
+        <meta name="author" content="ina kokasih">
         <!-- Le styles -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <style type="text/css">		
