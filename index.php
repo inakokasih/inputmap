@@ -51,10 +51,13 @@
                 <ul class="nav nav-pills pull-right">
                     <!-------------start menu ------- -->
                     <li>
-                        <a href="index.php?mod=lokasi&pg=lokasi_form">Input Lokasi</a>
+                        <a href="index.php?mod=lokasi&pg=lokasi_form">Input SPBU</a>
                     </li>
                     <li>
-                        <a href="index.php?mod=lokasi&pg=peta_view">Map View </a>
+                        <a href="index.php?mod=lokasi&pg=peta_view">SPBU Map View</a>
+                    </li>
+                    <li>
+                        <a href="index.php?mod=lokasi&pg=direction">Get Direction</a>
                     </li>
 
                     <!-------------end of menu ------- -->
